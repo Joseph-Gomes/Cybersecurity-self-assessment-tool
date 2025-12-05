@@ -1,0 +1,10 @@
+streamlit
+plotly
+kaleido
+fpdf
+python-dotenv
+streamlit
+matplotlib
+numpy
+fpdf
+python-dotenv

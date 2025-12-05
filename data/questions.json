@@ -1,0 +1,142 @@
+[
+  {
+    "id": "Q1",
+    "text": "Do you maintain an up-to-date list of all company devices (laptops, phones, servers, tablets)?",
+    "pillar": "Identify",
+    "weight": 6,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q2",
+    "text": "Do you maintain a list of approved software that is allowed on business devices?",
+    "pillar": "Identify",
+    "weight": 6,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q3",
+    "text": "Is sensitive data (e.g. customer, financial, HR data) identified and labelled (for example: public, internal, confidential)?",
+    "pillar": "Identify",
+    "weight": 8,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q4",
+    "text": "Is multi-factor authentication (MFA) enabled for all remote access and business email accounts?",
+    "pillar": "Protect",
+    "weight": 10,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q5",
+    "text": "Are default passwords on devices, routers and accounts changed before use?",
+    "pillar": "Protect",
+    "weight": 7,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q6",
+    "text": "Do workstations and mobile devices automatically lock after a short period of inactivity (for example, 5–10 minutes)?",
+    "pillar": "Protect",
+    "weight": 5,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q7",
+    "text": "Are administrator (admin) privileges restricted to only those who absolutely need them?",
+    "pillar": "Protect",
+    "weight": 9,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q8",
+    "text": "Is a firewall enabled on all laptops/desktops and at the network/router level?",
+    "pillar": "Protect",
+    "weight": 7,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q9",
+    "text": "Are operating systems and software set to automatically install security updates and patches?",
+    "pillar": "Protect",
+    "weight": 9,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q10",
+    "text": "Do all company devices have reputable antivirus or endpoint protection installed and kept up to date?",
+    "pillar": "Protect",
+    "weight": 8,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q11",
+    "text": "Is full-disk encryption enabled on laptops and mobile devices that store business data?",
+    "pillar": "Protect",
+    "weight": 7,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q12",
+    "text": "Is there a separate guest Wi-Fi network that is isolated from your main business network?",
+    "pillar": "Protect",
+    "weight": 6,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q13",
+    "text": "Do you have a simple, written incident response plan that explains what to do and who does what if there is a cyber incident?",
+    "pillar": "Detect & Respond",
+    "weight": 9,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q14",
+    "text": "Do you maintain a list of key emergency contacts (IT support, cloud providers, bank, legal or cyber support)?",
+    "pillar": "Detect & Respond",
+    "weight": 6,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q15",
+    "text": "Do you back up important business data (e.g. customer, financial, operational data) at least weekly?",
+    "pillar": "Recover",
+    "weight": 9,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q16",
+    "text": "Have you successfully tested restoring data from a backup in the last 6–12 months?",
+    "pillar": "Recover",
+    "weight": 9,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q17",
+    "text": "Do staff receive basic cybersecurity awareness training when they start and at least once per year?",
+    "pillar": "Governance & People",
+    "weight": 8,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q18",
+    "text": "Is there a process to immediately remove access (accounts, email, systems) when an employee or contractor leaves?",
+    "pillar": "Governance & People",
+    "weight": 8,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q19",
+    "text": "Do you check the security practices of third-party vendors before sharing sensitive data with them?",
+    "pillar": "Governance & People",
+    "weight": 7,
+    "good_answer": "yes"
+  },
+  {
+    "id": "Q20",
+    "text": "Do you have a documented process to handle privacy or data breaches in line with Australian privacy obligations?",
+    "pillar": "Governance & People",
+    "weight": 8,
+    "good_answer": "yes"
+  }
+]

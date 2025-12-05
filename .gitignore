@@ -1,0 +1,11 @@
+# venv and Python cache
+.venv/
+__pycache__/
+
+# Secrets
+.env
+
+# OS/editor stuff
+.vscode/
+.DS_Store
+Thumbs.db
