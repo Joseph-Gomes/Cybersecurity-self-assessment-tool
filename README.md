@@ -133,6 +133,13 @@ This toolkit is intended for general guidance, not formal compliance certificati
 ## License
 This project is licensed under the MIT License, allowing commercial and personal use.
 
+## Live Demo
+You can try the fully deployed version of the Cybersecurity Self-Assessment Tool using the link below.
+No installation or sign-in required — simply enter your details, complete the assessment, and download your personalised cybersecurity report.
+Live App:
+https://cybersecurity-self-assessment-tool-h6obvhxpvdblf7v4gxakbu.streamlit.app/
+
 ## Acknowledgements
 Thanks for using this cybersecurity assessment toolkit.
 It was built to help small and medium businesses better understand and strengthen their cybersecurity maturity with a simple, accessible workflow.
+
